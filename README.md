@@ -1,99 +1,74 @@
-<!-- 🔥 ANIMATED INTRO -->
+<!-- 🔥 SIMPLE CLEAN ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=35&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hello+👋+I'm+Ashish+Yadav;From+India+🇮🇳" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Ashish+Yadav;India+🇮🇳;Automation+%7C+Bots+%7C+Growth" />
 </p>
 
 ---
 
-## 🚀 MY PASSION ❤️
+## 🧠 ABOUT ME
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/Web_Design-FF6F00?style=for-the-badge&logo=googlechrome"/>
-  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram"/>
-  <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge&logo=githubactions"/>
+I build Telegram Bots 🤖 • Automate Systems ⚡ • Grow Social Platforms 📈  
+Focused on Real Growth & Practical Tech 🚀
 </p>
 
 ---
 
-## 🌍 DIGITAL CREATOR 🚀
+## 🚀 SKILLS & WORK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,js,nodejs,mongodb,git,github" />
+</p>
+
+---
+
+## 🌍 DIGITAL PRESENCE
 
 <p align="center">
   <a href="https://instagram.com/6_hf0">
-    <img src="https://img.shields.io/badge/📸_Instagram-100K+-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-100K+-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 
   <a href="https://youtube.com/@Unknown_Reason">
-    <img src="https://img.shields.io/badge/▶️_YouTube-47K+-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-47K+-FF0000?style=for-the-badge&logo=youtube"/>
   </a>
 
   <a href="https://t.me/Unknown_Reason">
-    <img src="https://img.shields.io/badge/✈️_Telegram-1M+-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/💼_Social_Media_Manager-Expert-000000?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  ⚡ Building Bots • Growing Communities • Automating Everything ⚡
-</p>
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishyadav210&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 💻 USED LANGUAGES
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishyadav210&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 CONTRIBUTION
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishyadav210&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav210&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://github.com/ashishyadav210">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-
-  <a href="https://t.me/Unknown_Reason">
-    <img src="https://skillicons.dev/icons?i=telegram" width="40"/>
-  </a>
-
-  <a href="https://youtube.com/@Unknown_Reason">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40"/>
-  </a>
-
-  <a href="https://instagram.com/6_hf0">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+    <img src="https://img.shields.io/badge/Telegram-1M+-26A5E4?style=for-the-badge&logo=telegram"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🔥 Thanks for Visiting ❤ Keep Growing 🚀</h2>
+## 📊 STATS (STABLE ONLY)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishyadav210&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishyadav210&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🔥 STREAK
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishyadav210&theme=dark" />
+</p>
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="https://github.com/ashishyadav210">GitHub</a> •
+  <a href="https://t.me/Unknown_Reason">Telegram</a> •
+  <a href="https://instagram.com/6_hf0">Instagram</a> •
+  <a href="https://youtube.com/@Unknown_Reason">YouTube</a>
+</p>
+
+---
+
+<h3 align="center">Keep Building 🚀</h3>

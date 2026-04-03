@@ -1,29 +1,33 @@
+<!-- GitHub Profile README for @ashishyadav210 -->
 
-<h1 align="center">Hello 👋 I'm Ashish Yadav</h1>
-<h3 align="center">From India 🇮🇳</h3>
-
+<!-- 🔥 ANIMATED INTRO -->
 <p align="center">
-  💻 Passionate Developer | 🤖 Bot Creator | 🔐 Cyber Security Learner
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=35&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hello+👋+I'm+Ashish+Yadav;From+India+🇮🇳" />
 </p>
 
 ---
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=25&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Telegram+Bot+Developer+🤖;Cyber+Security+Enthusiast+🔐;Web+Developer+🌐" />
-</p>
-
----
-
+<!-- 🔥 MY PASSION (ALL MERGED) -->
 ## 🚀 MY PASSION ❤️
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Designer-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
   <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Development-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Instagram-100K+_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-47K+_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-1M+_Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Social_Media_Manager-Expert-000000?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
+
+<p align="center">
+  ⚡ Building Bots • Growing Communities • Automating Everything ⚡
 </p>
 
 ---
@@ -40,7 +44,7 @@
 
 ---
 
-## 💻 USED LANGUAGES 
+## 💻 USED LANGUAGES
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishyadav210&layout=compact&theme=radical&langs_count=8" />
@@ -56,7 +60,7 @@
 
 ---
 
-## 🌐 CONNECT WITH ME 
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/ashishyadav210">

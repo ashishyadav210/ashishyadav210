@@ -7,7 +7,7 @@
 
 <!-- 🔥 SUB HEADING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=India+🇮🇳;Building+Systems+That+Grow;Automation+%7C+Bots+%7C+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=India+🇮🇳;Uttar+Pradesh" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://pukinsu-github-stats.vercel.app/api?username=ashishyadav210&count_private=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
+  <img src="https://ashishyadav210-github-stats.vercel.app/api?username=ashishyadav210&count_private=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="22">
 
 <p align="center">
-  <img src="https://pukinsu-github-stats.vercel.app/api/top-langs?username=pykinsu&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="pykinsu" />
+  <img src="https://ashishyadav210-github-stats.vercel.app/api/top-langs?username=ashishyadav210&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="ashishyadav210" />
 </p>
 
 

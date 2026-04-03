@@ -1,6 +1,6 @@
 <!-- 🔥 BIG ANIMATED HEADER (VISIBLE PRO LEVEL) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=42&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hello+👋+I'm+Ashish+Yadav+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=42&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hello+👋+I'm+Ashish+Yadav;MCA+STUDENT+" />
 </p>
 
 ---
@@ -15,10 +15,18 @@
 <!-- 🔥 GLASS STYLE BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00F7FF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Telegram_Bot_Development-000000?style=for-the-badge&logo=telegram&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&logo=googlechrome&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=githubactions&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Telegram_Bots-000000?style=for-the-badge&logo=telegram&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Web_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
 </p>
 
 ---

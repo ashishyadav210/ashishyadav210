@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://pukinsu-github-stats.vercel.app/api?username=pykinsu&count_private=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
+  <img src="https://pukinsu-github-stats.vercel.app/api?username=ashishyadav210&count_private=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five-vert.vercel.app/?user=Pykinsu&theme=dark&date_format=j%20M%5B%20Y%5D" alt="pykinsu" />
+  <img src="https://github-readme-streak-stats-five-vert.vercel.app/?user=ashishyadav210&theme=dark&date_format=j%20M%5B%20Y%5D" alt="pykinsu" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
 ### ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📊
 
 <p align="center">
-  <a href="https://github.com/pykinsu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pykinsu&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="PyKinsu's github activity graph" />
+  <a href="https://github.com/ashishyadav210">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav210&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="PyKinsu's github activity graph" />
   </a>
 </p>
 

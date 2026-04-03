@@ -39,7 +39,7 @@
 
 ---
 
-## ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif?1643514369" width="22">
+## ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif" width="22">
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=ashishyadav210&cc=000000&tc=ffffff&ic=ffffff&bc=ffffff" />
@@ -54,7 +54,7 @@
 
 ---
 
-# 🔥 STREAK
+## ꜱᴛʀᴇᴀᴋ <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif" width="22">
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashishyadav210&theme=tokyonight&hide_border=true" />
@@ -62,7 +62,7 @@
 
 ---
 
-# 📈 ACTIVITY GRAPH
+## ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif" width="22">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav210&theme=tokyo-night&hide_border=true" />
@@ -70,7 +70,7 @@
 
 ---
 
-### ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs <img src="https://emojis.slackmojis.com/emojis/images/1643516207/22334/look.gif?1643516207" width="22">
+## ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs <img src="https://emojis.slackmojis.com/emojis/images/1643516207/22334/look.gif" width="22">
 
 <p align="center">
   <img src="https://visitor-count-b8lb.vercel.app/api/ashishyadav210?hexColor=ffffff" />
@@ -78,20 +78,23 @@
 
 ---
 
-# 🌐 CONNECT
+## ᴄᴏɴɴᴇᴄᴛ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24">
 
 <p align="center">
   <a href="https://github.com/ashishyadav210">
-    <img src="https://skillicons.dev/icons?i=github" width="42"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://t.me/Unknown_Reason">
-    <img src="https://skillicons.dev/icons?i=telegram" width="42"/>
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+
   <a href="https://youtube.com/@Unknown_Reason">
-    <img src="https://skillicons.dev/icons?i=youtube" width="42"/>
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+
   <a href="https://instagram.com/6_hf0">
-    <img src="https://skillicons.dev/icons?i=instagram" width="42"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 

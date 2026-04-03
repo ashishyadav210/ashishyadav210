@@ -45,15 +45,15 @@
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishyadav210&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishyadav210&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
-## 💻 USED LANGUAGES (FIXED ✅)
+## 💻 USED LANGUAGES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishyadav210&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishyadav210&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 🔥 CONTRIBUTION
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishyadav210&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ashishyadav210&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav210&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav210&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---

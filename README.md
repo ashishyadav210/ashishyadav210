@@ -9,14 +9,17 @@
 
 ---
 
+
+---
+
 ## ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif?1643514369" width="22">
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=pykinsu&cc=000000&tc=ffffff&ic=ffffff&bc=ffffff" />
+  <img src="https://github-stats-alpha.vercel.app/api/?username=ashishyadav210&cc=000000&tc=ffffff&ic=ffffff&bc=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://pukinsu-github-stats.vercel.app/api?username=pykinsu&count_private=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
+  <img src="https://ashishyadav210-github-stats.vercel.app/api?username=ashishyadav210&count_private=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
 </p>
 
 ---
@@ -24,8 +27,10 @@
 ## ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="22">
 
 <p align="center">
-  <img src="https://pukinsu-github-stats.vercel.app/api/top-langs?username=pykinsu&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="pykinsu" />
+  <img src="https://pukinsu-github-stats.vercel.app/api/top-langs?username=ashishyadav210&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="ashishyadav210" />
 </p>
+
+---
 
 ---
 

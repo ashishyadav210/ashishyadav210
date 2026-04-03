@@ -1,6 +1,6 @@
 <!-- 🔥 BIG ANIMATED HEADER (VISIBLE PRO LEVEL) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=42&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hello+👋+I'm+Ashish+Yadav;Automation+Expert+⚡;Telegram+Bot+Developer+🤖;Cyber+Security+Learner+🔐;Scaling+Communities+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=42&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hello+👋+I'm+Ashish+Yadav+" />
 </p>
 
 ---
@@ -22,8 +22,6 @@
 </p>
 
 ---
-
-# 🌍 DIGITAL POWER 🚀
 
 <p align="center">
   <a href="https://instagram.com/6_hf0">

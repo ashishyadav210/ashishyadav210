@@ -7,7 +7,7 @@
 
 <!-- 🔥 SUB HEADING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=India+🇮🇳;Uttar+Pradesh" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=India+🇮🇳;Uttar+Pradesh" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs <img src="https://emojis.slackmojis.com/emojis/images/1643516207/22334/look.gif" width="22">
 
 <p align="center">
-  <img src="https://visitor-count-b8lb.vercel.app/api/ashishyadav210?hexColor=ffffff" />
+  <img src="https://visitor-count-b8lb.vercel.app/api/ashishyadav210?hexColor=FF0000" />
 </p>
 
 ---

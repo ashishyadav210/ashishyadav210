@@ -1,18 +1,15 @@
-<!-- 🔥 BIG ANIMATED HEADER (VISIBLE PRO LEVEL) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=42&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hello+👋+I'm+Ashish+Yadav;MCA+STUDENT+" />
 </p>
 
 ---
 
-<!-- 🔥 SUB HEADING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=India+🇮🇳;Uttar+Pradesh" />
 </p>
 
 ---
 
-<!-- 🔥 GLASS STYLE BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F7FF"/>

@@ -54,7 +54,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 ---
@@ -62,7 +64,7 @@
 ## ꜱᴛʀᴇᴀᴋ <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif" width="22">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishyadav210&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishyadav210&theme=black-ice" />
 </p>
 
 ---

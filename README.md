@@ -72,7 +72,7 @@
 ## ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif" width="22">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav210&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav210&theme=react-dark&hide_border=true" />
 </p>
 
 ---

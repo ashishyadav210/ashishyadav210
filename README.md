@@ -54,9 +54,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://ashishyadav210-github-stats.vercel.app/api?username=ashishyadav210&count_public=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
-</p>
+
 
 
 ---

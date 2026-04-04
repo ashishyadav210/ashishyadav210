@@ -54,7 +54,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://pukinsu-github-stats.vercel.app/api?username=pykinsu&count_private=true&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
+</p>
 
 
 ---
